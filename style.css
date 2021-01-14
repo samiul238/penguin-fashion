@@ -1,0 +1,146 @@
+/* header section */
+.fashion-header{
+    background-color:#fffbf0; 
+}
+
+.nav-img{
+    margin-left: 5rem;
+}
+.nav-link{
+    margin-left: 4rem;
+    font-weight: 700;
+    color: black;
+}
+
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    color: rgba(54, 57, 88, 1);
+    font-size: 5rem;
+    margin-left: 6.5rem;
+    margin-top: 2.4rem;
+}
+
+h1 span{
+    color: rgba(250, 190, 76, 1);  
+}
+h2{
+    font-size: 3rem;
+}
+h5{
+    color: rgba(54, 57, 88, 1);
+    font-size: 1.5rem; 
+}
+.header-text p{
+    color:black;
+    margin-left: 6.5rem;
+}
+
+.button{
+    margin-left: 6.5rem;
+    background-color: rgba(149, 180, 28, 1);
+    border: 0;
+    color: #fff;
+    height: 3.43rem;
+    width:10.62rem;
+    border-radius:.62rem;
+    margin-top: .56rem;
+    margin-bottom:1.37rem;
+}
+
+/* section 2 (women's jacket) */
+
+ .winter-jacket1 img{
+    width: 15.81rem;
+    height: 16.56rem;
+    margin-left:1.75rem ; 
+    margin-top:1.37rem ;    
+}
+.winter-jacket2 img{
+    width: 12rem;
+    height: 18.3rem;
+      margin-left: 3.43rem ;
+    padding-top: 2.5rem;
+      
+}
+ .winter-jacket3 img{
+    width: 13.12rem;
+    height: 16rem;
+    margin:2.1rem; 
+} 
+
+.jacket-background{
+    
+    height: 18.75rem;
+    margin: 1.25rem;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    border-radius:1.18rem;
+}
+
+.jacket-card-footer .button{
+    margin-right: 2rem;
+}
+.jacket-card-footer span{
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: rgba(250, 190, 76, 1) ;
+    margin-left: 1rem;
+    
+}
+.winter-jacket-card{
+    border: 0;
+    border-radius: 1.1rem;
+}
+/* seller info*/
+
+.seler-contact h5{
+    font-weight: 700;
+}
+.contact-section{
+    border: 0px;
+    border-radius: 1rem;
+}
+
+.seller-card{
+    margin: .5rem;
+}
+
+/* about us */
+
+.about-us{
+    margin-top: 5.6rem;
+}
+.about-us h2{
+    margin-bottom: 2.5rem;
+}
+
+.about-height{
+    height: 15.5rem;
+    border: 0px;
+    border-radius: 1rem;
+    margin-left: 1.8rem;
+    margin-bottom: 1.75rem;
+}
+.about-height p{
+    color: rgba(54, 57, 88, 1) ;
+    font-weight: 700;
+
+}
+/* contact card */
+
+
+
+.submit-section{
+    margin-top: 2.5rem;
+    background-color:#f1f1f1;
+    border-radius: .9rem;
+}
+.submit-button .button{
+    margin: 0px;
+    margin-top: .6rem;
+}
+
+/* END */
